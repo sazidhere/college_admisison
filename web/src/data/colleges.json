@@ -1,0 +1,1073 @@
+[
+  {
+    "slug": "harvard",
+    "name": "Harvard University",
+    "shortName": "Harvard",
+    "city": "Cambridge",
+    "state": "MA",
+    "website": "https://www.harvard.edu",
+    "admissionsUrl": "https://college.harvard.edu/admissions",
+    "intlAidUrl": "https://college.harvard.edu/financial-aid/applying-aid/international-students",
+    "intlAidPolicy": "need-blind",
+    "meetsFullNeedIntl": true,
+    "acceptanceRate": 0.042,
+    "acceptanceRateYear": "Class of 2029",
+    "sat25": 1510,
+    "sat75": 1580,
+    "satYear": "Fall 2024 entrants (Common Data Set 2024-25); Harvard's 2025-26 CDS reportedly gives only section ranges",
+    "testPolicy": "required",
+    "rounds": [
+      "REA",
+      "RD"
+    ],
+    "costOfAttendanceUSD": 91634,
+    "costYear": "2026-27",
+    "costBasis": "Billed charges only (tuition $62,226 + housing $14,250 + food $8,942 + health services $1,944 + student services $4,272); excludes books, personal expenses, travel and health insurance",
+    "schools": [
+      {
+        "name": "Harvard College",
+        "url": "https://college.harvard.edu"
+      },
+      {
+        "name": "John A. Paulson School of Engineering and Applied Sciences",
+        "url": "https://seas.harvard.edu"
+      }
+    ],
+    "programs": [
+      {
+        "name": "Program for Research in Science and Engineering (PRISE)",
+        "description": "A funded 10-week summer residential program in which Harvard undergraduates do full-time, faculty-mentored research in the sciences and engineering.",
+        "url": "https://uraf.harvard.edu/prise",
+        "kind": "research"
+      },
+      {
+        "name": "Harvard-NEC Dual Degree Program",
+        "description": "A five-year program leading to a Harvard AB or SB plus a Master of Music from New England Conservatory.",
+        "url": "https://college.harvard.edu/academics/liberal-arts-sciences/dual-programs-study-music",
+        "kind": "dual-degree"
+      },
+      {
+        "name": "Concurrent Masters Program",
+        "description": "Lets qualified Harvard College students earn a master's degree (AM or SM) alongside the bachelor's degree.",
+        "url": "https://oue.fas.harvard.edu/academics/special-learning-opportunities/concurrent-masters-program/",
+        "kind": "dual-degree"
+      }
+    ],
+    "notes": "Need-blind for all applicants regardless of citizenship and meets 100% of demonstrated need with the same aid policy for international students; aid is grant-based. SAT or ACT is required (other exams accepted only in exceptional cases where those tests are inaccessible); Harvard did not publish Class of 2030 admission statistics.",
+    "sources": [
+      "https://college.harvard.edu/financial-aid/how-aid-works",
+      "https://college.harvard.edu/financial-aid/applying-aid/international-students",
+      "https://college.harvard.edu/admissions/apply/international-applicants",
+      "https://college.harvard.edu/admissions/apply/application-requirements",
+      "https://news.harvard.edu/gazette/story/2024/04/harvard-announces-return-to-required-testing/",
+      "https://registrar.fas.harvard.edu/tuition-and-fees",
+      "https://www.thecrimson.com/article/2026/6/29/harvard-sticker-price-inflation/",
+      "https://www.thecrimson.com/article/2026/3/27/class-of-2030-ivy-day/",
+      "https://www.harvardmagazine.com/index%2Ephp/university-news/harvard-admissions-class-2029-admissions-data-ethnicity",
+      "https://oira.harvard.edu/common-data-set/",
+      "https://uraf.harvard.edu/prise",
+      "https://college.harvard.edu/academics/liberal-arts-sciences/dual-programs-study-music",
+      "https://oue.fas.harvard.edu/academics/special-learning-opportunities/concurrent-masters-program/"
+    ],
+    "confidence": "medium",
+    "confidenceReason": "Aid policy, test policy and cost confirmed via official harvard.edu pages (through search-index extracts; direct page fetches were blocked by the network proxy). Admit rate comes from Harvard Magazine/Crimson reporting, and SAT range is from the 2024-25 CDS as reported by secondary sites."
+  },
+  {
+    "slug": "yale",
+    "name": "Yale University",
+    "shortName": "Yale",
+    "city": "New Haven",
+    "state": "CT",
+    "website": "https://www.yale.edu",
+    "admissionsUrl": "https://admissions.yale.edu/",
+    "intlAidUrl": "https://admissions.yale.edu/financial-aid-international-applicants",
+    "intlAidPolicy": "need-blind",
+    "meetsFullNeedIntl": true,
+    "acceptanceRate": 0.042,
+    "acceptanceRateYear": "Class of 2030",
+    "sat25": 1480,
+    "sat75": 1560,
+    "satYear": "Class of 2029 enrolled (fall 2025)",
+    "testPolicy": "required",
+    "rounds": [
+      "SCEA",
+      "RD"
+    ],
+    "costOfAttendanceUSD": 97800,
+    "costYear": "2026-27",
+    "costBasis": "Inclusive billed fee $94,100 (tuition, housing, meals) plus Yale's $3,700 estimate for books and personal expenses; excludes travel",
+    "schools": [
+      {
+        "name": "Yale College",
+        "url": "https://yalecollege.yale.edu"
+      },
+      {
+        "name": "Yale School of Engineering & Applied Science",
+        "url": "https://engineering.yale.edu"
+      }
+    ],
+    "programs": [
+      {
+        "name": "Directed Studies",
+        "description": "A selective first-year program of three integrated full-year seminars in literature, philosophy, and historical and political thought.",
+        "url": "https://directedstudies.yale.edu/",
+        "kind": "curriculum"
+      },
+      {
+        "name": "Richard U. Light Fellowship",
+        "description": "Fully funds Yale students to study Chinese, Japanese, or Korean at approved programs in East Asia.",
+        "url": "https://light.yale.edu/",
+        "kind": "study-abroad"
+      },
+      {
+        "name": "STARS (Science, Technology and Research Scholars)",
+        "description": "Mentoring, seminars and a summer research program supporting students in science, engineering and math.",
+        "url": "https://science.yalecollege.yale.edu/stem-fellowships/funding-stem-opportunities-yale/stars",
+        "kind": "research"
+      }
+    ],
+    "notes": "Need-blind for all applicants regardless of citizenship and meets 100% of demonstrated need without loans; aid for international students includes allowances for travel to campus twice a year. Yale announced in May 2026 that SAT or ACT scores are required again starting with the 2026-27 cycle (ending its test-flexible AP/IB option).",
+    "sources": [
+      "https://admissions.yale.edu/financial-aid-international-applicants",
+      "https://admissions.yale.edu/international",
+      "https://finaid.yale.edu/faq",
+      "https://news.yale.edu/2026/03/26/yale-admits-2328-applicants-class-2030",
+      "https://news.yale.edu/2026/05/27/undergraduate-admissions-updates-testing-policy",
+      "https://yaledailynews.com/articles/yale-reinstates-sat-act-requirement-after-six-years-of-flexible-policy",
+      "https://admissions.yale.edu/standardized-testing",
+      "https://student-accounts.yale.edu/tuition-and-fees",
+      "https://finaid.yale.edu/coa",
+      "https://oir.yale.edu/sites/default/files/yale_cds_2025-26_md_20260616.pdf",
+      "https://www.cosmic.nyc/blog/yale-common-data-set-2025-2026",
+      "https://directedstudies.yale.edu/",
+      "https://light.yale.edu/",
+      "https://science.yalecollege.yale.edu/stem-fellowships/funding-stem-opportunities-yale/stars"
+    ],
+    "confidence": "high",
+    "confidenceReason": "Aid, admit rate and test policy from official Yale pages/news. SAT range is from a secondary summary of the 2025-26 CDS, and the COA total is assembled from two official components."
+  },
+  {
+    "slug": "princeton",
+    "name": "Princeton University",
+    "shortName": "Princeton",
+    "city": "Princeton",
+    "state": "NJ",
+    "website": "https://www.princeton.edu",
+    "admissionsUrl": "https://admission.princeton.edu/",
+    "intlAidUrl": "https://admission.princeton.edu/apply/international-students",
+    "intlAidPolicy": "need-blind",
+    "meetsFullNeedIntl": true,
+    "acceptanceRate": 0.04,
+    "acceptanceRateYear": "Class of 2030",
+    "sat25": 1490,
+    "sat75": 1560,
+    "satYear": "Fall 2025 entrants (Common Data Set 2025-26)",
+    "testPolicy": "optional",
+    "rounds": [
+      "SCEA",
+      "RD"
+    ],
+    "costOfAttendanceUSD": 94624,
+    "costYear": "2026-27",
+    "costBasis": "Princeton's estimated cost of attendance (tuition, housing, food, books, personal); travel varies",
+    "schools": [
+      {
+        "name": "School of Engineering and Applied Science (B.S.E.)",
+        "url": "https://engineering.princeton.edu"
+      },
+      {
+        "name": "Princeton School of Public and International Affairs",
+        "url": "https://spia.princeton.edu"
+      }
+    ],
+    "programs": [
+      {
+        "name": "Novogratz Bridge Year Program",
+        "description": "A tuition-free nine-month program in which newly admitted students spend a year in community-engaged service and learning at an international site before starting at Princeton.",
+        "url": "https://oip.princeton.edu/our-programs/novogratz-bridge-year",
+        "kind": "study-abroad"
+      },
+      {
+        "name": "Senior Thesis and Independent Work",
+        "description": "Every Princeton undergraduate completes independent research, including junior papers and a senior thesis, supported by the Office of Undergraduate Research.",
+        "url": "https://undergraduateresearch.princeton.edu/independent-work",
+        "kind": "curriculum"
+      }
+    ],
+    "notes": "Need-blind for international applicants and meets the full need of every admitted international student with grants rather than loans. Test-optional for students entering in fall 2027; SAT/ACT becomes required for students entering in fall 2028.",
+    "sources": [
+      "https://admission.princeton.edu/apply/international-students",
+      "https://admission.princeton.edu/cost-aid",
+      "https://finaid.princeton.edu/faqs",
+      "https://admission.princeton.edu/apply/standardized-testing",
+      "https://paw.princeton.edu/article/princeton-admissions-will-again-require-standardized-tests-2027",
+      "https://www.dailyprincetonian.com/article/2026/09/princeton-news-adpol-admissions-class-of-2030-lowest-ever-acceptance-rate",
+      "https://www.princeton.edu/news/2026/09/04/princeton-welcomes-class-2030-reflects-continuing-commitment-socio-economic",
+      "https://admission.princeton.edu/cost-aid/fees-payment-options",
+      "https://finaid.princeton.edu/how-aid-works/student-budget",
+      "https://ir.princeton.edu/document/606",
+      "https://oip.princeton.edu/our-programs/novogratz-bridge-year"
+    ],
+    "confidence": "high",
+    "confidenceReason": ""
+  },
+  {
+    "slug": "mit",
+    "name": "Massachusetts Institute of Technology",
+    "shortName": "MIT",
+    "city": "Cambridge",
+    "state": "MA",
+    "website": "https://www.mit.edu",
+    "admissionsUrl": "https://mitadmissions.org/",
+    "intlAidUrl": "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/",
+    "intlAidPolicy": "need-blind",
+    "meetsFullNeedIntl": true,
+    "acceptanceRate": 0.046,
+    "acceptanceRateYear": "Class of 2030",
+    "sat25": 1520,
+    "sat75": 1570,
+    "satYear": "Fall 2025 entrants (Common Data Set 2025-26)",
+    "testPolicy": "required",
+    "rounds": [
+      "EA",
+      "RD"
+    ],
+    "costOfAttendanceUSD": 92760,
+    "costYear": "2026-27",
+    "costBasis": "MIT's published cost of attendance (tuition $66,720, housing, food, books, supplies and personal expenses)",
+    "schools": [
+      {
+        "name": "School of Engineering",
+        "url": "https://engineering.mit.edu"
+      },
+      {
+        "name": "School of Science",
+        "url": "https://science.mit.edu"
+      },
+      {
+        "name": "School of Humanities, Arts, and Social Sciences",
+        "url": "https://shass.mit.edu"
+      },
+      {
+        "name": "School of Architecture and Planning",
+        "url": "https://sap.mit.edu"
+      },
+      {
+        "name": "Sloan School of Management",
+        "url": "https://mitsloan.mit.edu"
+      },
+      {
+        "name": "MIT Schwarzman College of Computing",
+        "url": "https://computing.mit.edu/"
+      }
+    ],
+    "programs": [
+      {
+        "name": "Undergraduate Research Opportunities Program (UROP)",
+        "description": "Lets undergraduates join faculty research projects in every MIT department for pay or credit, and about 93% of graduating seniors take part.",
+        "url": "https://urop.mit.edu/",
+        "kind": "research"
+      },
+      {
+        "name": "MIT International Science and Technology Initiatives (MISTI)",
+        "description": "Places MIT students in fully funded internships and research placements at companies and labs in more than 40 countries.",
+        "url": "https://misti.mit.edu/types-programs/internships",
+        "kind": "study-abroad"
+      }
+    ],
+    "notes": "Need-blind for all applicants, foreign and domestic, and meets 100% of demonstrated need for international students. International aid applicants submit the CSS Profile plus verification of parent income, and SAT/ACT is required.",
+    "sources": [
+      "https://mitadmissions.org/help/faq/need-blind-admissions/",
+      "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/",
+      "https://mitadmissions.org/help/faq/international-admissions/",
+      "https://mitadmissions.org/apply/process/stats/",
+      "https://thetech.com/2026/03/19/class-of-2030-rd",
+      "https://thetech.com/2025/12/18/class-of-2030-ea",
+      "https://ir.mit.edu/projects/2025-26-common-data-set/",
+      "https://mitadmissions.org/apply/firstyear/tests-scores/",
+      "https://catalog.mit.edu/mit/undergraduate-education/costs/",
+      "https://sfs.mit.edu/undergraduate-students/the-cost-of-attendance/coa/",
+      "https://facts.mit.edu/schools-college/",
+      "https://urop.mit.edu/",
+      "https://misti.mit.edu/types-programs/internships"
+    ],
+    "confidence": "high",
+    "confidenceReason": ""
+  },
+  {
+    "slug": "stanford",
+    "name": "Stanford University",
+    "shortName": "Stanford",
+    "city": "Stanford",
+    "state": "CA",
+    "website": "https://www.stanford.edu",
+    "admissionsUrl": "https://admission.stanford.edu/",
+    "intlAidUrl": "https://financialaid.stanford.edu/undergrad/how/international.html",
+    "intlAidPolicy": "need-aware",
+    "meetsFullNeedIntl": true,
+    "acceptanceRate": 0.038,
+    "acceptanceRateYear": "Class of 2029",
+    "sat25": 1520,
+    "sat75": 1570,
+    "satYear": "Fall 2025 entrants (Common Data Set 2025-26)",
+    "testPolicy": "required",
+    "rounds": [
+      "REA",
+      "RD"
+    ],
+    "costOfAttendanceUSD": 90675,
+    "costYear": "2026-27",
+    "costBasis": "Tuition $67,731 plus standard room and board $22,944 only; excludes fees, books, personal expenses and travel",
+    "schools": [
+      {
+        "name": "School of Humanities and Sciences",
+        "url": "https://humsci.stanford.edu"
+      },
+      {
+        "name": "School of Engineering",
+        "url": "https://engineering.stanford.edu"
+      },
+      {
+        "name": "Stanford Doerr School of Sustainability",
+        "url": "https://sustainability.stanford.edu/"
+      }
+    ],
+    "programs": [
+      {
+        "name": "Bing Overseas Studies Program (BOSP)",
+        "description": "Stanford-run study-abroad programs that give direct Stanford credit, and about half of each class studies away through them.",
+        "url": "https://bosp.stanford.edu/",
+        "kind": "study-abroad"
+      },
+      {
+        "name": "Structured Liberal Education (SLE)",
+        "description": "A residential first-year humanities program that combines intensive seminars and writing with living together in one dorm.",
+        "url": "https://bulletin.stanford.edu/departments/SLE/overview",
+        "kind": "curriculum"
+      }
+    ],
+    "notes": "Need-aware: for applicants who are not US citizens, permanent residents, undocumented or eligible noncitizens, a request for aid is a factor in the admission decision, but Stanford meets the full demonstrated need of all admitted students. You must request aid when you apply, because internationals who don't cannot apply for aid in later years.",
+    "sources": [
+      "https://financialaid.stanford.edu/undergrad/how/international.html",
+      "https://admission.stanford.edu/apply/international/index.html",
+      "https://financialaid.stanford.edu/undergrad/apply/requirements/rd_international.html",
+      "https://irds.stanford.edu/data-findings/undergraduate-admission",
+      "https://www.collegedata.fyi/schools/stanford/2025-26",
+      "https://admission.stanford.edu/apply/first-year/testing.html",
+      "https://news.stanford.edu/stories/2024/06/stanford-to-resume-standardized-test-requirement",
+      "https://news.stanford.edu/stories/2026/02/undergraduate-tuition-rates-2026-2027",
+      "https://facts.stanford.edu/academics/undergraduate-education",
+      "https://bosp.stanford.edu/",
+      "https://bulletin.stanford.edu/departments/SLE/overview"
+    ],
+    "confidence": "medium",
+    "confidenceReason": "Aid policy and test requirement come from official Stanford pages. Admit rate and SAT come from secondary summaries of Stanford's 2025-26 Common Data Set because Stanford doesn't publish the rate at decision time and Class of 2030 figures weren't found, and the COA figure excludes indirect costs."
+  },
+  {
+    "slug": "upenn",
+    "name": "University of Pennsylvania",
+    "shortName": "Penn",
+    "city": "Philadelphia",
+    "state": "PA",
+    "website": "https://www.upenn.edu",
+    "admissionsUrl": "https://admissions.upenn.edu/",
+    "intlAidUrl": "https://admissions.upenn.edu/affording-penn/international-aid",
+    "intlAidPolicy": "need-aware",
+    "meetsFullNeedIntl": true,
+    "acceptanceRate": 0.058,
+    "acceptanceRateYear": "Class of 2030",
+    "sat25": null,
+    "sat75": null,
+    "satYear": null,
+    "testPolicy": "required",
+    "rounds": [
+      "ED",
+      "RD"
+    ],
+    "costOfAttendanceUSD": 94582,
+    "costYear": "2026-27",
+    "costBasis": "Direct billed costs only (tuition $65,670 + fees $8,308 + room $13,644 + meal plan $6,960); excludes books, personal expenses and travel",
+    "schools": [
+      {
+        "name": "College of Arts and Sciences",
+        "url": "https://www.college.upenn.edu"
+      },
+      {
+        "name": "The Wharton School",
+        "url": "https://www.wharton.upenn.edu"
+      },
+      {
+        "name": "Penn Engineering (School of Engineering and Applied Science)",
+        "url": "https://www.seas.upenn.edu"
+      },
+      {
+        "name": "School of Nursing",
+        "url": "https://www.nursing.upenn.edu"
+      }
+    ],
+    "programs": [
+      {
+        "name": "Huntsman Program in International Studies and Business",
+        "description": "A four-year coordinated dual degree that combines a BA in International Studies from the College with a BS in Economics from Wharton, plus advanced language study and a semester abroad.",
+        "url": "https://huntsman.upenn.edu/",
+        "kind": "dual-degree"
+      },
+      {
+        "name": "Jerome Fisher Program in Management and Technology (M&T)",
+        "description": "A coordinated dual degree in which students earn a BS in Economics from Wharton and a BSE or BAS from Penn Engineering at the same time.",
+        "url": "https://undergrad.wharton.upenn.edu/coordinated-dual-degree-programs/",
+        "kind": "dual-degree"
+      },
+      {
+        "name": "Roy and Diana Vagelos Program in Life Sciences and Management (LSM)",
+        "description": "A coordinated dual degree combining a BA in the life sciences from the College with a BS in Economics from Wharton.",
+        "url": "https://undergrad.wharton.upenn.edu/coordinated-dual-degree-programs/",
+        "kind": "dual-degree"
+      },
+      {
+        "name": "Vagelos Integrated Program in Energy Research (VIPER)",
+        "description": "A coordinated dual-degree program in energy science and research spanning Penn Arts & Sciences and Penn Engineering.",
+        "url": "https://www.viper.upenn.edu/",
+        "kind": "dual-degree"
+      }
+    ],
+    "notes": "Need-aware for international applicants (non-citizens who are not residents of the US, Canada or Mexico), but international students admitted with aid get grant-based aid covering 100% of demonstrated need. You must apply for aid when you apply for admission, because internationals admitted without aid cannot apply for it later. SAT composite is null because Penn's official Class of 2029 profile gives only section ranges (EBRW 740-770, Math 770-800).",
+    "sources": [
+      "https://admissions.upenn.edu/affording-penn/international-aid",
+      "https://srfs.upenn.edu/financial-aid/international",
+      "https://ask.admissions.upenn.edu/support/solutions/articles/157000361174-does-penn-consider-my-ability-to-pay-when-making-admissions-decisions-",
+      "https://www.thedp.com/article/2026/06/penn-admissions-rate-test-mandatory-tuition-financial-aid",
+      "https://penntoday.upenn.edu/announcements/regular-decision-admissions-class-2030",
+      "https://admissions.upenn.edu/how-to-apply/resources-programs/incoming-class-profile",
+      "https://almanac.upenn.edu/articles/penn-trustees-approve-20262027-undergraduate-charges-and-financial-aid-budget",
+      "https://srfs.upenn.edu/costs-budgeting/undergraduate-cost-attendance",
+      "https://admissions.upenn.edu/learning-at-penn/undergraduate-schools/college-arts-and-sciences",
+      "https://huntsman.upenn.edu/",
+      "https://undergrad.wharton.upenn.edu/coordinated-dual-degree-programs/",
+      "https://catalog.upenn.edu/undergraduate/interdisciplinary/coordinated-dual-degree/"
+    ],
+    "confidence": "high",
+    "confidenceReason": "The SAT composite wasn't published, so it is null."
+  },
+  {
+    "slug": "columbia",
+    "name": "Columbia University",
+    "shortName": "Columbia",
+    "city": "New York",
+    "state": "NY",
+    "website": "https://www.columbia.edu",
+    "admissionsUrl": "https://undergrad.admissions.columbia.edu/",
+    "intlAidUrl": "https://undergrad.admissions.columbia.edu/apply/international/aid",
+    "intlAidPolicy": "need-aware",
+    "meetsFullNeedIntl": true,
+    "acceptanceRate": 0.042,
+    "acceptanceRateYear": "Class of 2030",
+    "sat25": null,
+    "sat75": null,
+    "satYear": null,
+    "testPolicy": "optional",
+    "rounds": [
+      "ED",
+      "RD"
+    ],
+    "costOfAttendanceUSD": null,
+    "costYear": null,
+    "costBasis": "Total COA not confirmed. Confirmed 2026-27 components are tuition of $36,400 per term ($72,800 per year), a Columbia College fee of $956 per term and an international services charge of $175 per term; housing, dining and indirect costs were not confirmed",
+    "schools": [
+      {
+        "name": "Columbia College",
+        "url": "https://www.college.columbia.edu"
+      },
+      {
+        "name": "The Fu Foundation School of Engineering and Applied Science (Columbia Engineering)",
+        "url": "https://www.engineering.columbia.edu"
+      }
+    ],
+    "programs": [
+      {
+        "name": "Combined Plan Program",
+        "description": "Lets students from partner liberal-arts colleges transfer into Columbia Engineering to earn a second, engineering bachelor's degree.",
+        "url": "https://undergrad.admissions.columbia.edu/apply/combinedplan",
+        "kind": "dual-degree"
+      }
+    ],
+    "notes": "Need-aware for international applicants, but Columbia meets 100% of demonstrated need for all admitted students regardless of citizenship, without loans. You must say you're applying for aid when you apply, because internationals admitted without aid cannot switch later. Test-optional for 2026-27, with SAT/ACT required again from the 2027-28 cycle. Total cost of attendance and the SAT range weren't confirmed (null), and the Core Curriculum and other programs weren't researched because the search budget ran out.",
+    "sources": [
+      "https://undergrad.admissions.columbia.edu/apply/international/aid",
+      "https://cc-seas.financialaid.columbia.edu/how/aid/works",
+      "https://cc-seas.financialaid.columbia.edu/faq-page/prospective-students",
+      "https://undergrad.admissions.columbia.edu/apply/process/testing",
+      "https://communications.news.columbia.edu/news/update-columbia-college-and-columbia-engineering-testing-policy",
+      "https://undergrad.admissions.columbia.edu/columbia-announces-class-2030-admissions-decisions",
+      "https://www.columbiaspectator.com/news/2026/03/26/columbia-college-seas-admit-class-of-2030-from-largest-applicant-pool-in-university-history/",
+      "https://bulletin.columbia.edu/columbia-college/fees-expenses-financial-aid/",
+      "https://undergrad.admissions.columbia.edu/affordability/cost",
+      "https://undergrad.admissions.columbia.edu/apply/combinedplan"
+    ],
+    "confidence": "medium",
+    "confidenceReason": "Aid policy, test policy and admit rate come from official Columbia pages. Total COA, SAT range and notable programs are incomplete because the web-search budget ran out."
+  },
+  {
+    "slug": "rice",
+    "name": "Rice University",
+    "shortName": "Rice",
+    "city": "Houston",
+    "state": "TX",
+    "website": "https://www.rice.edu/",
+    "admissionsUrl": "https://admission.rice.edu/",
+    "intlAidUrl": "https://financialaid.rice.edu/apply-aid/international-students",
+    "intlAidPolicy": "need-aware",
+    "meetsFullNeedIntl": true,
+    "acceptanceRate": 0.08,
+    "acceptanceRateYear": "Class of 2029",
+    "sat25": 1510,
+    "sat75": 1560,
+    "testPolicy": "optional",
+    "rounds": [
+      "ED",
+      "ED2",
+      "RD"
+    ],
+    "costOfAttendanceUSD": 92654,
+    "costYear": "2026-27",
+    "schools": [
+      {
+        "name": "George R. Brown School of Engineering and Computing",
+        "url": "https://engineering.rice.edu/"
+      },
+      {
+        "name": "Wiess School of Natural Sciences",
+        "url": "https://naturalsciences.rice.edu/"
+      },
+      {
+        "name": "School of Humanities",
+        "url": "https://humanities.rice.edu/"
+      },
+      {
+        "name": "Shepherd School of Music",
+        "url": "https://music.rice.edu/"
+      },
+      {
+        "name": "Jones Graduate School of Business (undergraduate business major)",
+        "url": "https://business.rice.edu/"
+      },
+      {
+        "name": "School of Social Sciences",
+        "url": null
+      },
+      {
+        "name": "School of Architecture",
+        "url": null
+      }
+    ],
+    "programs": [
+      {
+        "name": "Century Scholars Program",
+        "description": "Select incoming first-years are paired with a faculty mentor for two years of research, with some receiving a merit scholarship and research stipend.",
+        "url": "https://ouri.rice.edu/research-programs/century-scholars",
+        "kind": "research"
+      },
+      {
+        "name": "Residential College System",
+        "description": "Every undergraduate is randomly assigned to one of 12 self-governing residential colleges with resident faculty, which they belong to for all four years.",
+        "url": "https://www.rice.edu/residential-colleges",
+        "kind": "other"
+      },
+      {
+        "name": "Center for Civic Leadership",
+        "description": "A tiered LEARN, ACT, CREATE CHANGE program open to all undergraduates for developing civic leadership through courses, internships and community projects.",
+        "url": "https://ccl.rice.edu/",
+        "kind": "other"
+      }
+    ],
+    "notes": "Need-aware for international first-year applicants, but internationals who receive need-based aid have 100% of demonstrated need met with institutional grants (no loans); aid is available to a limited number of internationals and those who do not apply for aid in first year cannot apply later. CSS Profile required. 2026-27 tuition is $71,140 plus $20,530 room and board and $984 fees (about $92,654 direct billed costs); the full cost of attendance including indirect costs could not be confirmed, so costOfAttendanceUSD is null.",
+    "sources": [
+      "https://financialaid.rice.edu/apply-aid/international-students",
+      "https://admission.rice.edu/apply/first-year-domestic-applicants",
+      "https://admission.rice.edu/apply/first-year-international-applicants",
+      "https://admission.rice.edu/apply/class-profile",
+      "https://news.rice.edu/news/2025/future-full-promise-rice-welcome-largest-class-history",
+      "https://news.rice.edu/news/2026/rice-sets-2026-27-undergraduate-tuition-while-reaffirming-commitment-full-need-loan-free",
+      "https://www.rice.edu/about",
+      "https://ouri.rice.edu/research-programs/century-scholars",
+      "https://www.rice.edu/residential-colleges",
+      "https://ccl.rice.edu/"
+    ],
+    "confidence": "medium",
+    "confidenceReason": "Official .edu pages could not be fetched directly (egress blocked); facts verified via search-engine extracts of official Rice pages. SAT range (1510-1560) attributed to Rice's class profile by third-party sites only; total cost of attendance not confirmed.",
+    "costBasis": "Billed costs only (tuition, fees, housing and food); excludes books, personal costs and travel",
+    "satYear": null
+  },
+  {
+    "slug": "vanderbilt",
+    "name": "Vanderbilt University",
+    "shortName": "Vanderbilt",
+    "city": "Nashville",
+    "state": "TN",
+    "website": "https://www.vanderbilt.edu/",
+    "admissionsUrl": "https://admissions.vanderbilt.edu/",
+    "intlAidUrl": "https://admissions.vanderbilt.edu/affordability/international-costs-and-finances/",
+    "intlAidPolicy": "need-aware",
+    "meetsFullNeedIntl": true,
+    "acceptanceRate": 0.047,
+    "acceptanceRateYear": "Class of 2029",
+    "sat25": null,
+    "sat75": null,
+    "testPolicy": "optional",
+    "rounds": [
+      "ED",
+      "ED2",
+      "RD"
+    ],
+    "costOfAttendanceUSD": null,
+    "costYear": "2026-27",
+    "schools": [
+      {
+        "name": "College of Arts and Science",
+        "url": "https://as.vanderbilt.edu/"
+      },
+      {
+        "name": "School of Engineering",
+        "url": "https://engineering.vanderbilt.edu/"
+      },
+      {
+        "name": "Peabody College of Education and Human Development",
+        "url": "https://peabody.vanderbilt.edu/"
+      },
+      {
+        "name": "Blair School of Music",
+        "url": "https://admissions.vanderbilt.edu/academics/blair-school-of-music/"
+      }
+    ],
+    "programs": [
+      {
+        "name": "Immersion Vanderbilt",
+        "description": "Every undergraduate completes a mentored experiential learning project through research, study abroad, creative work, internships or civic work.",
+        "url": "https://news.vanderbilt.edu/2025/01/16/inaugural-cohort-of-faculty-fellows-elevates-immersion-vanderbilt/",
+        "kind": "curriculum"
+      },
+      {
+        "name": "Cornelius Vanderbilt Scholarship",
+        "description": "A signature merit scholarship for students combining outstanding academics with leadership, and international first-year applicants are eligible to apply.",
+        "url": "https://www.vanderbilt.edu/scholarships/signature/",
+        "kind": "honors"
+      },
+      {
+        "name": "Ingram Scholars Program",
+        "description": "A signature merit scholarship for students who plan to combine a professional career with a strong commitment to civic-minded service and leadership.",
+        "url": "https://www.vanderbilt.edu/scholarships/ingram/",
+        "kind": "honors"
+      }
+    ],
+    "notes": "Need-aware for international applicants who request aid, but admitted internationals with demonstrated need have 100% of it met with grants/scholarships; aid goes to a limited number (89 internationals from 54 countries received need-based and/or merit aid for fall 2026). Internationals can also apply for the Cornelius Vanderbilt and Ingram merit scholarships (separate application, deadline around Dec 1); the Chancellor's Scholarship is retired from fall 2027. Test-optional for fall 2027 and 2028 entry, with testing required from fall 2029. 2026-27 tuition is $69,822; full cost of attendance could not be confirmed, and no official composite SAT range was found (Vanderbilt's profile shows section ranges of 740-770 EBRW and 770-790 Math).",
+    "sources": [
+      "https://admissions.vanderbilt.edu/affordability/international-costs-and-finances/",
+      "https://www.vanderbilt.edu/financialaid/undergraduate/international/",
+      "https://admissions.vanderbilt.edu/apply/testing-policies/",
+      "https://admissions.vanderbilt.edu/apply/",
+      "https://admissions.vanderbilt.edu/vandybloggers/2025/04/class-of-2029-regular-decision-summary-statistics/",
+      "https://admissions.vanderbilt.edu/vandybloggers/2025/02/class-of-2029-early-decision-by-the-numbers/",
+      "https://admissions.vanderbilt.edu/profile/",
+      "https://www.vanderbilt.edu/stuaccts/fees/tuition_fees_2026-27_ugrd/",
+      "https://admissions.vanderbilt.edu/academics/",
+      "https://www.vanderbilt.edu/scholarships/faq/",
+      "https://www.collegetransitions.com/blog/how-to-get-into-vanderbilt/"
+    ],
+    "confidence": "medium",
+    "confidenceReason": "Official pages could not be fetched directly (egress blocked); verified via search extracts of official Vanderbilt pages. Overall 4.7% admit rate is computed from Vanderbilt's ED and RD figures (48,681 applications, 2,302 admits) as reported by a third party. COA and composite SAT not confirmed.",
+    "costBasis": null,
+    "satYear": null
+  },
+  {
+    "slug": "amherst",
+    "name": "Amherst College",
+    "shortName": "Amherst",
+    "city": "Amherst",
+    "state": "MA",
+    "website": "https://www.amherst.edu/",
+    "admissionsUrl": "https://www.amherst.edu/admission/",
+    "intlAidUrl": "https://www.amherst.edu/offices/financialaid/international_students",
+    "intlAidPolicy": "need-blind",
+    "meetsFullNeedIntl": true,
+    "acceptanceRate": 0.07,
+    "acceptanceRateYear": "Class of 2029",
+    "sat25": null,
+    "sat75": null,
+    "testPolicy": "optional",
+    "rounds": [
+      "ED",
+      "RD"
+    ],
+    "costOfAttendanceUSD": 96360,
+    "costYear": "2026-27",
+    "schools": [
+      {
+        "name": "Amherst College (liberal arts college)",
+        "url": "https://www.amherst.edu/academiclife"
+      }
+    ],
+    "programs": [
+      {
+        "name": "Open Curriculum",
+        "description": "Amherst has no distribution requirements or core curriculum, so apart from a first-year seminar and major requirements students choose all their own courses.",
+        "url": "https://www.amherst.edu/academiclife/open-curriculum",
+        "kind": "curriculum"
+      },
+      {
+        "name": "Five College Consortium",
+        "description": "Students can cross-register at no extra cost for courses at Hampshire, Mount Holyoke, Smith and UMass Amherst, connected by a free bus system.",
+        "url": "https://www.amherst.edu/academiclife/fivecollege",
+        "kind": "other"
+      },
+      {
+        "name": "Gregory S. Call Undergraduate Research Program",
+        "description": "Funds student research grants, summer research awards and academic internships working with Amherst faculty on original research.",
+        "url": "https://www.amherst.edu/academiclife/student-faculty-research",
+        "kind": "research"
+      }
+    ],
+    "notes": "Need-blind for international applicants and meets 100% of demonstrated need for admitted internationals with scholarships and a campus job (no loans packaged; the first $1,800 of need is met with work). 2026-27 comprehensive fee (tuition, housing, meals, activities fee) is $96,360; full cost of attendance adds personal and travel estimates and was not confirmed. Class of 2029 pre-waitlist admit rate was 7%; an enrolled-student SAT range was not confirmed (third-party sources cite 1450-1560 for admitted students).",
+    "sources": [
+      "https://www.amherst.edu/offices/financialaid/international_students",
+      "https://www.amherst.edu/admission/apply/international",
+      "https://www.amherst.edu/admission/apply/firstyear/testing",
+      "https://www.amherst.edu/admission/apply/firstyear/calendar_deadlines",
+      "https://www.amherst.edu/about/facts/secondary_school_reports/class-of-2029-admission-and-enrollment-profile",
+      "https://www.amherst.edu/offices/financialaid/forms_links/fees_2026-2027_academic_year",
+      "https://www.amherst.edu/academiclife/open-curriculum",
+      "https://www.amherst.edu/academiclife/fivecollege",
+      "https://www.amherst.edu/academiclife/student-faculty-research"
+    ],
+    "confidence": "high",
+    "confidenceReason": "Aid policy, rounds, test policy and fees confirmed from official Amherst pages via search extracts (direct fetch was blocked). SAT range and total COA left null.",
+    "costBasis": "Billed costs only (tuition, fees, housing and food); excludes books, personal costs and travel",
+    "satYear": null
+  },
+  {
+    "slug": "williams",
+    "name": "Williams College",
+    "shortName": "Williams",
+    "city": "Williamstown",
+    "state": "MA",
+    "website": "https://www.williams.edu/",
+    "admissionsUrl": "https://admission.williams.edu/",
+    "intlAidUrl": "https://www.williams.edu/admission-aid/financial-aid/international/",
+    "intlAidPolicy": "need-aware",
+    "meetsFullNeedIntl": true,
+    "acceptanceRate": 0.085,
+    "acceptanceRateYear": "Class of 2029",
+    "sat25": null,
+    "sat75": null,
+    "testPolicy": "optional",
+    "rounds": [
+      "ED",
+      "RD"
+    ],
+    "costOfAttendanceUSD": 95960,
+    "costYear": "2026-27",
+    "schools": [
+      {
+        "name": "Williams College (liberal arts college)",
+        "url": "https://www.williams.edu/academics/undergraduate-study/"
+      }
+    ],
+    "programs": [
+      {
+        "name": "Tutorials",
+        "description": "Oxford-style courses in which two students do advanced work under the close guidance of a faculty member, alternately presenting papers and critiquing each other.",
+        "url": "https://www.williams.edu/academics/undergraduate-study/",
+        "kind": "curriculum"
+      },
+      {
+        "name": "Williams-Exeter Programme at Oxford",
+        "description": "A year-long program at Exeter College, Oxford, that uses the Oxford tutorial system and replaces a normal year of Williams coursework.",
+        "url": "https://exeter.williams.edu/the-program/",
+        "kind": "study-abroad"
+      },
+      {
+        "name": "Williams-Mystic Maritime Studies Program",
+        "description": "A semester of interdisciplinary ocean and coastal studies with field travel and original research, credited as a full semester plus Winter Study.",
+        "url": "https://mystic.williams.edu/admissions/apply-now/",
+        "kind": "study-abroad"
+      },
+      {
+        "name": "Winter Study",
+        "description": "A three-and-a-half-week January term for unconventional or experiential courses outside a student's usual area of study.",
+        "url": "https://www.williams.edu/academics/undergraduate-study/",
+        "kind": "curriculum"
+      }
+    ],
+    "notes": "Williams is not need-blind for international applicants (need-aware), but aid for admitted internationals meets 100% of demonstrated need, is guaranteed for four years, and includes one round-trip flight home a year; about 70% of internationals receive aid. Internationals who may ever need aid must say so on the admission application; Williams offers no merit scholarships. 2026-27 billed comprehensive fees are $95,960 (plus $3,365 health insurance if not waived); full COA with personal/travel estimates not confirmed, and the enrolled-class SAT range was not confirmed.",
+    "sources": [
+      "https://www.williams.edu/admission-aid/financial-aid/international/",
+      "https://www.williams.edu/admission-aid/apply/international/",
+      "https://www.williams.edu/admission-aid/how-to-apply/first-year/",
+      "https://www.williams.edu/admission-aid/apply/deadlines/",
+      "https://www.williams.edu/sfs/manage-your-account/tuition-fees/",
+      "https://williamsrecord.com/469492/news/college-admits-8-5-percent-of-applicants-to-class-of-2029",
+      "https://hub.williams.edu/institutional-research/common-data-set/",
+      "https://www.williams.edu/academics/undergraduate-study/",
+      "https://exeter.williams.edu/the-program/",
+      "https://mystic.williams.edu/admissions/apply-now/"
+    ],
+    "confidence": "medium",
+    "confidenceReason": "Aid policy, costs, rounds and testing confirmed from official Williams pages via search extracts (direct fetch blocked); 8.5% admit rate is from the Williams Record student newspaper, not an official page; SAT range not confirmed.",
+    "costBasis": "Billed costs only (tuition, fees, housing and food); excludes books, personal costs and travel",
+    "satYear": null
+  },
+  {
+    "slug": "bowdoin",
+    "name": "Bowdoin College",
+    "shortName": "Bowdoin",
+    "city": "Brunswick",
+    "state": "ME",
+    "website": "https://www.bowdoin.edu/",
+    "admissionsUrl": "https://www.bowdoin.edu/admissions/",
+    "intlAidUrl": "https://www.bowdoin.edu/admissions/apply/international-students/index.html",
+    "intlAidPolicy": "need-blind",
+    "meetsFullNeedIntl": true,
+    "acceptanceRate": 0.07,
+    "acceptanceRateYear": "Class of 2029",
+    "sat25": null,
+    "sat75": null,
+    "testPolicy": "optional",
+    "rounds": [
+      "ED",
+      "ED2",
+      "RD"
+    ],
+    "costOfAttendanceUSD": 97900,
+    "costYear": "2026-27",
+    "schools": [
+      {
+        "name": "Bowdoin College (liberal arts college)",
+        "url": "https://www.bowdoin.edu/"
+      }
+    ],
+    "programs": [
+      {
+        "name": "Schiller Coastal Studies Center",
+        "description": "A 118-acre coastal campus where undergraduates do faculty-mentored marine and coastal research, often supported by Bowdoin summer fellowships.",
+        "url": "https://www.bowdoin.edu/coastal-studies-center/",
+        "kind": "research"
+      },
+      {
+        "name": "Bowdoin Scientific Station on Kent Island",
+        "description": "A field station in the Bay of Fundy, Canada, where undergraduates conduct independent research alongside professional scientists.",
+        "url": "https://www.bowdoin.edu/kent-island/index.html",
+        "kind": "research"
+      },
+      {
+        "name": "McKeen Center for the Common Good",
+        "description": "Connects students' academic work and interests to public service and community engagement programs.",
+        "url": "https://www.bowdoin.edu/mckeen-center/",
+        "kind": "other"
+      }
+    ],
+    "notes": "Need-blind for all applicants including internationals (since the 2022-23 cycle) and meets full calculated need with loan-free aid. Internationals submit aid documents after admission (within about seven days of the offer). 2026-27 COA of about $97,900 = tuition and fees $74,968 + housing and food $20,432 + personal/books $2,500, excluding travel and the $4,442 health plan (waivable). Enrolled-class SAT range not confirmed; about half of the Class of 2029 did not submit scores.",
+    "sources": [
+      "https://www.bowdoin.edu/admissions/apply/international-students/index.html",
+      "https://www.bowdoin.edu/news/2022/07/bowdoin-college-expands-need-blind-admissions-policy-to-include-international-students.html",
+      "https://www.bowdoin.edu/admissions/costs-and-aid/index.html",
+      "https://www.bowdoin.edu/student-aid/cost-of-attendance/index.html",
+      "https://www.bowdoin.edu/bursar/tuition/index.html",
+      "https://www.bowdoin.edu/admissions/at-a-glance/class-of-2029.html",
+      "https://www.bowdoin.edu/admissions/apply/test-optional-policy/index.html",
+      "https://www.bowdoin.edu/admissions/apply/dates-deadlines/index.html",
+      "https://www.bowdoin.edu/coastal-studies-center/",
+      "https://www.bowdoin.edu/kent-island/index.html",
+      "https://www.bowdoin.edu/mckeen-center/"
+    ],
+    "confidence": "high",
+    "confidenceReason": "Core aid policy, rounds, testing, admit rate and 2026-27 costs confirmed from official Bowdoin pages via search extracts (direct fetch blocked). SAT range left null.",
+    "costBasis": null,
+    "satYear": null
+  },
+  {
+    "slug": "swarthmore",
+    "name": "Swarthmore College",
+    "shortName": "Swarthmore",
+    "city": "Swarthmore",
+    "state": "PA",
+    "website": "https://www.swarthmore.edu/",
+    "admissionsUrl": "https://www.swarthmore.edu/admissions-aid",
+    "intlAidUrl": "https://www.swarthmore.edu/financial-aid/international-students",
+    "intlAidPolicy": "need-aware",
+    "meetsFullNeedIntl": true,
+    "acceptanceRate": 0.074,
+    "acceptanceRateYear": "Class of 2029",
+    "sat25": null,
+    "sat75": null,
+    "testPolicy": "optional",
+    "rounds": [
+      "ED",
+      "ED2",
+      "RD"
+    ],
+    "costOfAttendanceUSD": 90692,
+    "costYear": "2025-26",
+    "schools": [
+      {
+        "name": "Swarthmore College (liberal arts college, includes an ABET-accredited engineering program)",
+        "url": "https://www.swarthmore.edu/"
+      }
+    ],
+    "programs": [
+      {
+        "name": "Honors Program",
+        "description": "Seniors in Honors are assessed through written and oral examinations by visiting examiners from other institutions rather than by their own professors.",
+        "url": "https://www.swarthmore.edu/honors-program",
+        "kind": "honors"
+      },
+      {
+        "name": "Engineering (B.S.)",
+        "description": "An ABET-accredited Bachelor of Science in Engineering inside a liberal arts college, requiring only twelve engineering courses so double majors are common.",
+        "url": "https://www.swarthmore.edu/engineering",
+        "kind": "curriculum"
+      },
+      {
+        "name": "Tri-College Consortium and Penn cross-registration",
+        "description": "Students can take courses at Bryn Mawr and Haverford and cross-register at the University of Pennsylvania.",
+        "url": "https://www.swarthmore.edu/academics/tri-college-consortium",
+        "kind": "other"
+      },
+      {
+        "name": "Lang Center for Civic and Social Responsibility",
+        "description": "Funds and supports student projects and research that connect academic work with community and social issues.",
+        "url": "https://www.swarthmore.edu/lang-center",
+        "kind": "other"
+      }
+    ],
+    "notes": "Need-aware for international citizens, but aid for admitted internationals is loan-free and meets 100% of institutionally determined need (it can cover tuition, fees, housing, food, books, personal expenses and travel). Rounds are Fall ED (Nov 15), Winter ED (Jan 4) and RD (Jan 4). 2026-27 charges were not visible; the 2025-26 billed cost (tuition, housing, food, fees) was $90,692, so full COA is null. Enrolled-class SAT range not confirmed; 7.4% is computed from 965 admits out of 12,995 applicants for the Class of 2029.",
+    "sources": [
+      "https://www.swarthmore.edu/financial-aid/international-students",
+      "https://www.swarthmore.edu/admissions-aid/international-students",
+      "https://www.swarthmore.edu/admissions-aid/standardized-testing-policy",
+      "https://www.swarthmore.edu/admissions-aid/application-materials-deadlines",
+      "https://www.swarthmore.edu/news-events/swarthmore-admits-965-to-class-2029",
+      "https://www.swarthmore.edu/student-accounts-office/tuition-housing-food-fees",
+      "https://www.swarthmore.edu/finance-and-investment-office/2025-26-operating-budget-summary",
+      "https://www.swarthmore.edu/honors-program",
+      "https://www.swarthmore.edu/engineering",
+      "https://www.swarthmore.edu/academics/tri-college-consortium",
+      "https://www.swarthmore.edu/lang-center"
+    ],
+    "confidence": "high",
+    "confidenceReason": "Aid policy, rounds, testing and admit numbers confirmed from official Swarthmore pages via search extracts (direct fetch blocked). The admit rate is pre-waitlist (computed from the admissions press release); COA and SAT are null.",
+    "costBasis": "Billed costs only (tuition, fees, housing and food); excludes books, personal costs and travel",
+    "satYear": null
+  },
+  {
+    "slug": "pomona",
+    "name": "Pomona College",
+    "shortName": "Pomona",
+    "city": "Claremont",
+    "state": "CA",
+    "website": "https://www.pomona.edu/",
+    "admissionsUrl": "https://www.pomona.edu/admissions",
+    "intlAidUrl": "https://www.pomona.edu/financial-aid/applying-for-aid/international-aid",
+    "intlAidPolicy": "need-aware",
+    "meetsFullNeedIntl": true,
+    "acceptanceRate": 0.069,
+    "acceptanceRateYear": "Class of 2029",
+    "sat25": null,
+    "sat75": null,
+    "testPolicy": "optional",
+    "rounds": [
+      "ED",
+      "ED2",
+      "RD"
+    ],
+    "costOfAttendanceUSD": 95670,
+    "costYear": "2026-27",
+    "schools": [
+      {
+        "name": "Pomona College (liberal arts college, member of The Claremont Colleges)",
+        "url": "https://www.pomona.edu/academics"
+      }
+    ],
+    "programs": [
+      {
+        "name": "The Claremont Colleges consortium",
+        "description": "Pomona students can cross-enroll at the other four undergraduate Claremont Colleges, all within one square mile (one course per semester in the first year, up to 40% of the program afterward).",
+        "url": "https://www.pomona.edu/about/claremont-colleges",
+        "kind": "other"
+      },
+      {
+        "name": "Summer Undergraduate Research Program (SURP)",
+        "description": "A paid four-to-ten-week summer research fellowship with a faculty mentor or on a student-designed project.",
+        "url": "https://www.pomona.edu/administration/academic-dean/funding/student-research-opportunities/surp",
+        "kind": "research"
+      },
+      {
+        "name": "Access to Course Essentials (ACE)",
+        "description": "From fall 2026 Pomona provides all required books and course supplies to every student at no additional charge.",
+        "url": "https://www.pomona.edu/financial-aid/cost-attendance",
+        "kind": "other"
+      }
+    ],
+    "notes": "Need-aware for international applicants, but Pomona meets 100% of demonstrated need for every admitted international with grants and student work (no loans); about 41% of internationals receive need-based aid, averaging nearly $74,000 a year. Internationals must apply for aid when applying for admission. 2026-27 billed on-campus cost is $95,670 (tuition $71,660, fees $420, housing and food $23,590); full COA with personal and travel estimates not confirmed. Test-optional is permanent. Admit rate computed from 861 admits out of 12,470 applicants for the Class of 2029; the Class of 2030 (876 admits) rate was not published in the extracts seen.",
+    "sources": [
+      "https://www.pomona.edu/financial-aid/applying-for-aid/international-aid",
+      "https://www.pomona.edu/admissions/apply/international-applicants",
+      "https://www.pomona.edu/admissions/apply/international-applicants/international-applicant-faqs",
+      "https://www.pomona.edu/news/2025/03/21-introducing-pomona-college-class-2029",
+      "https://www.pomona.edu/news/2025/09/12-pomona-college-class-2029-profile",
+      "https://www.pomona.edu/news/2023/11/15-pomona-college-makes-test-optional-admissions-policy-permanent",
+      "https://www.pomona.edu/news/2026/03/19-pomona-college-admits-876-students-class-2030",
+      "https://www.pomona.edu/admissions/paths-apply",
+      "https://www.pomona.edu/administration/finance-office/student-accounts/tuition-and-costs",
+      "https://www.pomona.edu/financial-aid/cost-attendance",
+      "https://www.pomona.edu/about/claremont-colleges",
+      "https://www.pomona.edu/administration/academic-dean/funding/student-research-opportunities/surp"
+    ],
+    "confidence": "high",
+    "confidenceReason": "Aid policy, costs, testing and admit numbers confirmed from official Pomona pages via search extracts (direct fetch blocked). The ED I deadline was not seen, but ED I and ED II are both named officially. SAT and full COA are null.",
+    "costBasis": "Billed costs only (tuition, fees, housing and food); excludes books, personal costs and travel",
+    "satYear": null
+  },
+  {
+    "slug": "wellesley",
+    "name": "Wellesley College",
+    "shortName": "Wellesley",
+    "city": "Wellesley",
+    "state": "MA",
+    "website": "https://www.wellesley.edu/",
+    "admissionsUrl": "https://www.wellesley.edu/admission-aid",
+    "intlAidUrl": "https://www.wellesley.edu/admission-aid/student-financial-services/understanding-financial-aid/apply-for-aid/international-students",
+    "intlAidPolicy": "need-aware",
+    "meetsFullNeedIntl": true,
+    "acceptanceRate": 0.137,
+    "acceptanceRateYear": "Class of 2029",
+    "sat25": null,
+    "sat75": null,
+    "testPolicy": null,
+    "rounds": [
+      "ED",
+      "ED2",
+      "RD"
+    ],
+    "costOfAttendanceUSD": null,
+    "costYear": null,
+    "schools": [
+      {
+        "name": "Wellesley College (women's liberal arts college)",
+        "url": "https://www.wellesley.edu/"
+      }
+    ],
+    "programs": [],
+    "notes": "Wellesley is not need-blind for international citizens (need-aware) and has a limited number of need-based awards for them, but it meets 100% of calculated need for admitted internationals who applied for aid during admission, with loans replaced by grants; the family contribution set at admission stays the same for all four years. Internationals must apply for aid when applying for admission or cannot receive it later. The test policy for the 2026-27 cycle, 2026-27 cost of attendance, SAT range and notable programs could not be verified (the web search budget ran out); the Class of 2029 was the fifth year of test-optional admission.",
+    "sources": [
+      "https://www.wellesley.edu/admission-aid/student-financial-services/understanding-financial-aid/apply-for-aid/international-students",
+      "https://www.wellesley.edu/admission-aid/apply/first-year-applicants/international-applicants",
+      "https://www.wellesley.edu/admission-aid/faqs",
+      "https://www.wellesley.edu/news/welcome-class-of-2029",
+      "https://www.wellesley.edu/admission/apply/firstyear/datesdeadlines",
+      "https://www.wellesley.edu/admission-aid/student-financial-services/tuition-cost"
+    ],
+    "confidence": "medium",
+    "confidenceReason": "Aid policy, rounds and admit rate confirmed from official Wellesley pages via search extracts. Test policy, COA, SAT and programs are unverified and left null or empty because the search budget ran out.",
+    "costBasis": null,
+    "satYear": null
+  }
+]

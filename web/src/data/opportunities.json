@@ -1,0 +1,840 @@
+[
+  {
+    "id": "bdmo-math-olympiad",
+    "name": "Bangladesh Mathematical Olympiad (BdMO)",
+    "org": "Bangladesh Mathematical Olympiad Committee (BdMOC)",
+    "category": "olympiad",
+    "description": "Nationwide math olympiad with selection/regional rounds and a national round; top performers go to national camps from which Bangladesh's IMO team is chosen. Past questions are on the official site and are good practice.",
+    "eligibility": "School and college students in Bangladesh up to Class 12, in four categories: Primary (Class 3-5), Junior (Class 6-8), Secondary (Class 9-10), Higher Secondary (Class 11-12).",
+    "cost": "free",
+    "deadlineHint": "Rounds usually run December-February",
+    "url": "https://matholympiad.org.bd",
+    "tags": [
+      "math",
+      "IMO",
+      "olympiad",
+      "national"
+    ],
+    "classLevels": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://matholympiad.org.bd/about-us",
+      "https://one.matholympiad.org.bd/categories",
+      "https://en.wikipedia.org/wiki/Bangladesh_Mathematical_Olympiad"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "bdoi-informatics-olympiad",
+    "name": "Bangladesh Olympiad in Informatics (BdOI)",
+    "org": "Bangladesh Informatics Olympiad Committee (BIOC)",
+    "category": "olympiad",
+    "description": "Annual algorithmic programming contest modeled on the International Olympiad in Informatics (IOI); a preliminary round leads to a national round and the IOI team selection. Bangladesh won its first IOI gold in 2024.",
+    "eligibility": "Pre-university (school and college) students in Bangladesh.",
+    "cost": "free",
+    "deadlineHint": null,
+    "url": "https://olympiad.org.bd/",
+    "tags": [
+      "programming",
+      "IOI",
+      "olympiad",
+      "computer-science"
+    ],
+    "classLevels": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://olympiad.org.bd/",
+      "https://stats.ioinformatics.org/countries/BGD",
+      "https://news.daffodilvarsity.edu.bd/news/daffodil-international-university-hosts-bangladesh-olympiad-in-informatics-2024-a-showcase-of-budding-computational-talent"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "bdpho-physics-olympiad",
+    "name": "Bangladesh Physics Olympiad (BdPhO)",
+    "org": "Bangladesh Physics Olympiad Committee",
+    "category": "olympiad",
+    "description": "National physics olympiad with regional and national rounds followed by training camps that select Bangladesh's teams for the International (IPhO), Asian (APhO) and European Physics Olympiads. Syllabus and past papers are on the official site.",
+    "eligibility": "School and college students in Bangladesh, in class-based categories (check the site for current category ranges).",
+    "cost": "free",
+    "deadlineHint": null,
+    "url": "https://www.bdpho.org/",
+    "tags": [
+      "physics",
+      "IPhO",
+      "APhO",
+      "olympiad"
+    ],
+    "classLevels": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://www.bdpho.org/",
+      "https://www.bdpho.org/syllabus",
+      "https://en.wikipedia.org/wiki/Bangladesh_Physics_Olympiad"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "bdcho-chemistry-olympiad",
+    "name": "Bangladesh Chemistry Olympiad",
+    "org": "Department of Chemistry, University of Dhaka & Bangladesh Chemical Society",
+    "category": "olympiad",
+    "description": "National chemistry olympiad with a preliminary round in about 15 regions and a final round (problem solving plus lab work) at Dhaka University; winners can represent Bangladesh at the International Chemistry Olympiad (IChO).",
+    "eligibility": "For the 2026 edition: students of Class 11-12 (HSC) and O/A level students in Bangladesh.",
+    "cost": "free",
+    "deadlineHint": "Preliminary round in late January, final in April (2026 schedule)",
+    "url": "https://www.du.ac.bd/du_post_details/Department-of-Chemistry,-University-of-Dhaka-to-organize-15th-Bangladesh-Chemistry-Olympiad-2026/26323",
+    "tags": [
+      "chemistry",
+      "IChO",
+      "olympiad"
+    ],
+    "classLevels": [
+      11,
+      12
+    ],
+    "sources": [
+      "https://www.du.ac.bd/du_post_details/Department-of-Chemistry,-University-of-Dhaka-to-organize-15th-Bangladesh-Chemistry-Olympiad-2026/26323",
+      "https://www.du.ac.bd/webPost/25/26558"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "bdbo-biology-olympiad",
+    "name": "Bangladesh Biology Olympiad (BdBO)",
+    "org": "Bangladesh Biology Olympiad",
+    "category": "olympiad",
+    "description": "Regional biology olympiads across the country lead to a National Biology Olympiad and a BioCamp, which selects Bangladesh's team for the International Biology Olympiad (IBO).",
+    "eligibility": "Students in Bangladesh in Junior (Class 6-8), Secondary (Class 9-10) and Higher Secondary (Class 11-12) categories; for IBO selection you must be under 20 during IBO and not yet admitted to a university.",
+    "cost": "paid - registration fee (a BDT 1000 fee has been listed for past national rounds; check current fee)",
+    "deadlineHint": "Regional rounds around April (2026 schedule)",
+    "url": "https://bdbo.org/",
+    "tags": [
+      "biology",
+      "IBO",
+      "olympiad"
+    ],
+    "classLevels": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://bdbo.org/",
+      "https://bdbo.org/bdbo-dhaka-south-regional-biology-olympiad-2026/",
+      "https://bdbo.org/12th-bdbo-national-biology-olympiad-2026/",
+      "https://ibo-info.org/en/countries/nbo/bd-bangladesh-biology-olympiad-bdbo-89.html"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "yale-young-global-scholars",
+    "name": "Yale Young Global Scholars (YYGS)",
+    "org": "Yale University",
+    "category": "summer",
+    "description": "Academic enrichment summer sessions at Yale for high-school students from around the world. One of the few pre-college programs that gives need-based aid equally to international students (up to 100% of tuition).",
+    "eligibility": "Students from all countries in US Grade 10 or 11 (or international equivalent) at time of application, typically ages 15-17; first-time participants only.",
+    "cost": "need-based aid for internationals - tuition discount up to 100%; aid does not cover travel",
+    "deadlineHint": "Early Action mid-October; Regular Decision early January",
+    "url": "https://globalscholars.yale.edu/",
+    "tags": [
+      "summer",
+      "yale",
+      "humanities",
+      "stem",
+      "financial-aid"
+    ],
+    "classLevels": [
+      10,
+      11
+    ],
+    "sources": [
+      "https://globalscholars.yale.edu/eligibility",
+      "https://globalscholars.yale.edu/tuition/financial-aid",
+      "https://globalscholars.yale.edu/application-deadlines"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "promys",
+    "name": "PROMYS (Program in Mathematics for Young Scientists)",
+    "org": "PROMYS / Boston University",
+    "category": "summer",
+    "description": "Six-week residential summer program in Boston focused on deep, proof-based number theory. Admission requires solving a challenging problem set.",
+    "eligibility": "Students who have completed at least 9th grade (or equivalent), aged 14-18 at program start; international students may apply.",
+    "cost": "need-based aid for internationals - decided case by case (cost up to $8,000); all applicants considered for full Breakout Fellowships",
+    "deadlineHint": "Late February (problem set + application)",
+    "url": "https://promys.org/programs/promys/",
+    "tags": [
+      "math",
+      "summer",
+      "number-theory",
+      "financial-aid"
+    ],
+    "classLevels": [
+      9,
+      10,
+      11
+    ],
+    "sources": [
+      "https://promys.org/programs/promys/for-students/for-international-students/",
+      "https://promys.org/programs/promys/for-students/scholarships/",
+      "https://promys.org/programs/promys/for-students/application/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ross-mathematics-program",
+    "name": "Ross Mathematics Program",
+    "org": "Ross Program",
+    "category": "summer",
+    "description": "Intensive six-week summer math program centered on number theory and writing proofs. Admission is based on an application problem set.",
+    "eligibility": "First-year students are usually ages 15-18; international applicants accepted and must show English fluency.",
+    "cost": "need-based aid for internationals - some aid available on a $7,500 program fee; travel is rarely covered",
+    "deadlineHint": "Early March",
+    "url": "https://rossprogram.org/",
+    "tags": [
+      "math",
+      "summer",
+      "number-theory",
+      "financial-aid"
+    ],
+    "classLevels": [
+      9,
+      10,
+      11
+    ],
+    "sources": [
+      "https://rossprogram.org/participants/application/",
+      "https://rossprogram.org/participants/faq/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "canada-usa-mathcamp",
+    "name": "Canada/USA Mathcamp",
+    "org": "Mathcamp",
+    "category": "summer",
+    "description": "Residential summer program in advanced mathematics; applicants solve a Qualifying Quiz. Admission is need-blind for everyone and Mathcamp meets 100% of demonstrated need, including for international students, with travel grants if needed.",
+    "eligibility": "Students aged 13-18 from any country.",
+    "cost": "need-based aid for internationals - full need met, final fee $0-$7,500 plus travel grants",
+    "deadlineHint": "Late February (Qualifying Quiz + application)",
+    "url": "https://www.mathcamp.org/",
+    "tags": [
+      "math",
+      "summer",
+      "need-blind",
+      "financial-aid"
+    ],
+    "classLevels": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://www.mathcamp.org/admission/international/",
+      "https://www.mathcamp.org/admission/tuition/",
+      "https://mathcamp.org/admission/eligibility/",
+      "https://mathcamp.org/admission/deadlines/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "summer-science-program",
+    "name": "Summer Science Program (SSP)",
+    "org": "SSP International",
+    "category": "summer",
+    "description": "Summer research program where small teams of students do a real research project in science. Admission is need-blind and SSP covers 100% of demonstrated need, including airfare for the student.",
+    "eligibility": "High-school juniors (Class 11 equivalent), at least 15 and not yet 19 during the program; international applicants welcome.",
+    "cost": "need-based aid for internationals - 100% of demonstrated need met, including student airfare",
+    "deadlineHint": "Late January for international applicants",
+    "url": "https://summerscience.org/",
+    "tags": [
+      "science",
+      "research",
+      "summer",
+      "need-blind",
+      "financial-aid"
+    ],
+    "classLevels": [
+      11
+    ],
+    "sources": [
+      "https://summerscience.org/fees-financial-aid/",
+      "https://summerscience.org/admissions/how-to-apply/how-to-apply-international/",
+      "https://summerscience.org/faqs/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "stanford-sumac",
+    "name": "Stanford University Mathematics Camp (SUMaC)",
+    "org": "Stanford Pre-Collegiate Studies",
+    "category": "summer",
+    "description": "Summer math program (residential at Stanford or online) covering advanced, proof-based mathematics. Partial and full need-based scholarships are available to international applicants.",
+    "eligibility": "Students in grade 10 or 11 when applying and at least 15 during the program; international students may apply.",
+    "cost": "need-based aid for internationals - partial and full scholarships",
+    "deadlineHint": "February (financial aid documents were due mid-February in 2026)",
+    "url": "https://sumac.spcs.stanford.edu/",
+    "tags": [
+      "math",
+      "summer",
+      "stanford",
+      "online",
+      "financial-aid"
+    ],
+    "classLevels": [
+      10,
+      11
+    ],
+    "sources": [
+      "https://sumac.spcs.stanford.edu/tuition-and-financial-aid-sumac",
+      "https://sumac.spcs.stanford.edu/sumac-admissions"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "telluride-tass",
+    "name": "Telluride Association Summer Seminar (TASS)",
+    "org": "Telluride Association",
+    "category": "summer",
+    "description": "Free summer seminar focused on critical reading, writing and discussion (humanities/social justice themes). Telluride covers tuition, books, room and board, and can help with travel.",
+    "eligibility": "International students (studying outside the US without a US passport) may apply only as sophomores (Class 10 equivalent), within the program's stated birthdate window.",
+    "cost": "free - all program costs covered; travel help available",
+    "deadlineHint": "Early December",
+    "url": "https://tellurideassociation.org/our-programs/high-school-students/",
+    "tags": [
+      "humanities",
+      "writing",
+      "summer",
+      "free"
+    ],
+    "classLevels": [
+      10
+    ],
+    "sources": [
+      "https://tellurideassociation.org/our-programs/high-school-students/",
+      "https://tellurideassociation.org/our-programs/high-school-students/tass-faq-2/",
+      "https://tellurideassociation.org/our-programs/high-school-students/tass-application-timeline/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "nasa-space-apps-challenge",
+    "name": "NASA International Space Apps Challenge",
+    "org": "NASA (Bangladesh edition hosted by BASIS)",
+    "category": "competition",
+    "description": "Global hackathon (held over a weekend) where teams use NASA data to solve space and Earth challenges; Bangladesh runs local events in several cities and Bangladeshi teams have won global titles multiple times.",
+    "eligibility": "Open to all ages worldwide; participants under 18 must be registered by and accompanied by a parent/guardian.",
+    "cost": "free",
+    "deadlineHint": "Registration opens around August; 2026 event is November 14-15",
+    "url": "https://www.spaceappschallenge.org/",
+    "tags": [
+      "hackathon",
+      "space",
+      "coding",
+      "team",
+      "nasa"
+    ],
+    "classLevels": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://www.spaceappschallenge.org/resources/-faq/",
+      "https://www.spaceappschallenge.org/2026/",
+      "https://www.tbsnews.net/bangladesh/27-bangladesh-teams-vie-nasa-space-apps-challenges-2024-959676"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "breakthrough-junior-challenge",
+    "name": "Breakthrough Junior Challenge",
+    "org": "Breakthrough Prize Foundation",
+    "category": "competition",
+    "description": "Make a short video explaining a big idea in physics, life sciences or mathematics. The winner receives a $250,000 educational prize, plus prizes for their teacher and school.",
+    "eligibility": "Students aged 13-18 of any nationality.",
+    "cost": "free",
+    "deadlineHint": "Mid-September",
+    "url": "https://breakthroughjuniorchallenge.org/",
+    "tags": [
+      "science",
+      "video",
+      "communication",
+      "prize"
+    ],
+    "classLevels": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://breakthroughjuniorchallenge.org/faq",
+      "https://breakthroughjuniorchallenge.org/rules"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "john-locke-essay-competition",
+    "name": "John Locke Institute Global Essay Prize",
+    "org": "John Locke Institute",
+    "category": "competition",
+    "description": "International essay competition (max 2,000 words) in subjects such as philosophy, politics, economics, history, psychology and theology. A strong way to show writing and thinking skills.",
+    "eligibility": "Students from any country; Junior category if under 15 on the deadline, otherwise Senior category.",
+    "cost": "free - fee applies only for late submission extensions",
+    "deadlineHint": "Around end of May (check current year's date)",
+    "url": "https://www.johnlockeinstitute.com/essay-competition",
+    "tags": [
+      "essay",
+      "writing",
+      "humanities",
+      "economics"
+    ],
+    "classLevels": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://www.johnlockeinstitute.com/essay-competition"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "usaco",
+    "name": "USA Computing Olympiad (USACO)",
+    "org": "USACO",
+    "category": "competition",
+    "description": "Online algorithmic programming contests (Bronze to Platinum divisions) held about four times a year that anyone can join from home; great practice alongside BdOI. Only US students can qualify for the US camp/IOI team.",
+    "eligibility": "Open to everyone worldwide; just create an account. US training-camp selection is limited to US pre-college students.",
+    "cost": "free",
+    "deadlineHint": "Contests run monthly from about December to early spring",
+    "url": "https://usaco.org/",
+    "tags": [
+      "programming",
+      "online",
+      "algorithms",
+      "contest"
+    ],
+    "classLevels": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://usaco.org/index.php?page=details",
+      "https://usaco.org/index.php?page=instructions"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "the-earth-prize",
+    "name": "The Earth Prize",
+    "org": "The Earth Prize Foundation",
+    "category": "competition",
+    "description": "Global sustainability competition where individuals or teams of up to five propose solutions to environmental problems, with $100,000 in prizes.",
+    "eligibility": "Students aged 13-19 worldwide, no geographic restrictions (2026 cycle: born 2006-2012).",
+    "cost": "free",
+    "deadlineHint": "Registration open until January 10, 2027 (current cycle)",
+    "url": "https://www.theearthprize.org/",
+    "tags": [
+      "environment",
+      "sustainability",
+      "team",
+      "prize"
+    ],
+    "classLevels": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://www.theearthprize.org/rules",
+      "https://www.theearthprize.org/faq"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "uwc-bangladesh",
+    "name": "UWC Bangladesh National Committee selection",
+    "org": "UWC Bangladesh National Committee",
+    "category": "scholarship",
+    "description": "The official route for Bangladeshi students to study the last two years of school (IB Diploma) at a United World College abroad; need-based partial and full scholarships are offered. UWC graduates can later get Davis UWC Scholars funding at many US colleges.",
+    "eligibility": "Bangladeshi citizens aged 16-18 when joining the college, currently in or recently completed Class 10 / SSC / O-level / IGCSE.",
+    "cost": "need-based aid for internationals - partial or full need-based scholarships",
+    "deadlineHint": null,
+    "url": "https://bd.uwc.org/",
+    "tags": [
+      "uwc",
+      "ib",
+      "scholarship",
+      "boarding-school"
+    ],
+    "classLevels": [
+      10,
+      11
+    ],
+    "sources": [
+      "https://bd.uwc.org/how-to-apply/",
+      "https://www.bd.uwc.org/how-to-apply/eligibility-criteria",
+      "https://bd.uwc.org/about-uwc-bangladesh/what-we-do/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "davis-uwc-scholars",
+    "name": "Davis UWC Scholars Program",
+    "org": "Davis United World College Scholars Program",
+    "category": "scholarship",
+    "description": "Gives need-based grants to 100+ partner US colleges for UWC graduates, for up to four years of undergraduate study. Relevant if you attend a UWC school first.",
+    "eligibility": "Graduates of UWC schools/colleges admitted to a Davis partner college in the US.",
+    "cost": "need-based aid for internationals - grants via partner colleges' need-based aid",
+    "deadlineHint": null,
+    "url": "https://www.davisuwcscholars.org/",
+    "tags": [
+      "uwc",
+      "undergraduate",
+      "need-based",
+      "scholarship"
+    ],
+    "classLevels": [
+      11,
+      12
+    ],
+    "sources": [
+      "https://www.davisuwcscholars.org/",
+      "https://www.davisuwcscholars.org/partners"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "rise-for-the-world",
+    "name": "Rise (Rise for the World)",
+    "org": "Schmidt Futures and the Rhodes Trust",
+    "category": "scholarship",
+    "description": "Global program that picks 100 Global Winners each year for lifelong support, including need-based university scholarships, mentorship and funding for projects. The application focuses on potential and a service project, not grades.",
+    "eligibility": "Young people aged 15-17 (as of July 1) from any country.",
+    "cost": "free - free to apply; winners get need-based scholarships",
+    "deadlineHint": null,
+    "url": "https://www.risefortheworld.org/",
+    "tags": [
+      "scholarship",
+      "leadership",
+      "service",
+      "global"
+    ],
+    "classLevels": [
+      9,
+      10,
+      11
+    ],
+    "sources": [
+      "https://www.risefortheworld.org/",
+      "https://www.risefortheworld.org/about-rise/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "mit-need-blind-aid",
+    "name": "MIT need-blind admission and full-need aid for international students",
+    "org": "Massachusetts Institute of Technology",
+    "category": "scholarship",
+    "description": "MIT is need-blind for international applicants and meets 100% of demonstrated need for all admitted students; families earning under $200,000 typically pay no tuition.",
+    "eligibility": "All undergraduate applicants, including international students.",
+    "cost": "need-based aid for internationals - 100% of demonstrated need met",
+    "deadlineHint": null,
+    "url": "https://mitadmissions.org/help/faq/international-admissions/",
+    "tags": [
+      "financial-aid",
+      "need-blind",
+      "undergraduate",
+      "mit"
+    ],
+    "classLevels": [
+      11,
+      12
+    ],
+    "sources": [
+      "https://mitadmissions.org/help/faq/international-admissions/",
+      "https://mitadmissions.org/help/faq/need-blind-admissions/",
+      "https://sfs.mit.edu/undergraduate-students/the-cost-of-attendance/making-mit-affordable/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "harvard-need-blind-aid",
+    "name": "Harvard need-blind admission and full-need aid for international students",
+    "org": "Harvard College",
+    "category": "scholarship",
+    "description": "Harvard admits international applicants need-blind and gives them exactly the same need-based aid as US students, meeting 100% of demonstrated need.",
+    "eligibility": "All undergraduate applicants, including foreign citizens.",
+    "cost": "need-based aid for internationals - 100% of demonstrated need met",
+    "deadlineHint": null,
+    "url": "https://college.harvard.edu/financial-aid/applying-aid/international-students",
+    "tags": [
+      "financial-aid",
+      "need-blind",
+      "undergraduate",
+      "harvard"
+    ],
+    "classLevels": [
+      11,
+      12
+    ],
+    "sources": [
+      "https://college.harvard.edu/financial-aid/how-aid-works",
+      "https://college.harvard.edu/admissions/apply/international-applicants",
+      "https://college.harvard.edu/financial-aid/applying-aid/international-students"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "educationusa-american-center-dhaka",
+    "name": "EducationUSA at The American Center, Dhaka",
+    "org": "U.S. Embassy Dhaka / EducationUSA (U.S. Department of State)",
+    "category": "advising",
+    "description": "Official US government advising center that runs free weekly step-by-step seminars on applying to US universities and offers individual counseling. Updates are posted on the EducationUSA Bangladesh Facebook page.",
+    "eligibility": "Any student or parent in Bangladesh; open Sunday-Thursday.",
+    "cost": "free",
+    "deadlineHint": null,
+    "url": "https://educationusa.state.gov/centers/american-center-dhaka",
+    "tags": [
+      "advising",
+      "dhaka",
+      "educationusa",
+      "free"
+    ],
+    "classLevels": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://educationusa.state.gov/centers/american-center-dhaka",
+      "https://bd.usembassy.gov/educationusa-upcoming-events/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "educationusa-emk-center",
+    "name": "EducationUSA at the Edward M. Kennedy (EMK) Center",
+    "org": "U.S. Embassy Dhaka / EducationUSA",
+    "category": "advising",
+    "description": "Full-service EducationUSA advising center in Dhaka (Gulshan) with advisers giving free help on the US application process; the center also runs English, STEM and other programs.",
+    "eligibility": "Any student or parent in Bangladesh.",
+    "cost": "free",
+    "deadlineHint": null,
+    "url": "https://educationusa.state.gov/centers/edward-m-kennedy-center-emk-center",
+    "tags": [
+      "advising",
+      "dhaka",
+      "educationusa",
+      "free"
+    ],
+    "classLevels": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://educationusa.state.gov/centers/edward-m-kennedy-center-emk-center",
+      "https://bd.usembassy.gov/emk-center/",
+      "https://bd.usembassy.gov/inauguration-of-new-location-for-edward-m-kennedy-emk-center/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "educationusa-american-corners",
+    "name": "EducationUSA advising at American Corners (Chattogram, Rajshahi, Khulna, Sylhet)",
+    "org": "U.S. Embassy Dhaka / EducationUSA",
+    "category": "advising",
+    "description": "Students outside Dhaka can get free in-person or virtual EducationUSA group and one-on-one advising, plus reference materials, through American Corners in several divisional cities.",
+    "eligibility": "Any student or parent in Bangladesh.",
+    "cost": "free",
+    "deadlineHint": null,
+    "url": "https://bd.usembassy.gov/education/american-spaces/",
+    "tags": [
+      "advising",
+      "chattogram",
+      "rajshahi",
+      "khulna",
+      "sylhet",
+      "free"
+    ],
+    "classLevels": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://bd.usembassy.gov/education/american-spaces/",
+      "https://educationusa.state.gov/centers/american-corner-chittagong",
+      "https://educationusa.state.gov/centers/educationusa-american-corner-rajshahi",
+      "https://educationusa.state.gov/centers/educationusa-american-corner-khulna",
+      "https://bd.usembassy.gov/educationusa-upcoming-events/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "sat-bluebook-khan-academy",
+    "name": "Official SAT practice: Bluebook practice tests + Official Digital SAT Prep on Khan Academy",
+    "org": "College Board & Khan Academy",
+    "category": "test",
+    "description": "Take free full-length adaptive digital SAT practice tests in the Bluebook app, then use free Official Digital SAT Prep on Khan Academy to practice your weak skills. The real SAT is taken in person at a test center; use College Board's Test Center Search to find dates and centers for Bangladesh, and bring a valid passport (the only ID accepted at test centers in Bangladesh).",
+    "eligibility": "Anyone; the actual SAT is for students applying to college (usually taken in Class 11-12).",
+    "cost": "free - practice is free; the SAT itself is paid ($68 plus a $43 international fee)",
+    "deadlineHint": null,
+    "url": "https://satsuite.collegeboard.org/practice",
+    "tags": [
+      "SAT",
+      "test-prep",
+      "bluebook",
+      "khan-academy",
+      "free"
+    ],
+    "classLevels": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://satsuite.collegeboard.org/practice/practice-tests/bluebook",
+      "https://satsuite.collegeboard.org/practice/khan-academy",
+      "https://satsuite.collegeboard.org/sat/test-center-search",
+      "https://satsuite.collegeboard.org/sat/registration/international-testing/fees",
+      "https://bd.usembassy.gov/educationusa-tests/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "duolingo-english-test-practice",
+    "name": "Duolingo English Test (DET) free practice test",
+    "org": "Duolingo",
+    "category": "test",
+    "description": "Free, unlimited practice tests that show the real question types. The actual DET is taken online at home on your computer at any time, with results in about 2 days, so no test center is needed in Bangladesh.",
+    "eligibility": "Anyone; check each university's list to confirm it accepts DET.",
+    "cost": "free - practice is free; the official test is paid (check current fee)",
+    "deadlineHint": null,
+    "url": "https://englishtest.duolingo.com/practice",
+    "tags": [
+      "english",
+      "DET",
+      "test-prep",
+      "online",
+      "free"
+    ],
+    "classLevels": [
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://englishtest.duolingo.com/practice",
+      "https://englishtest.duolingo.com/applicants",
+      "https://englishtest.duolingo.com/institutions/accepting_institutions"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ielts-official-prep",
+    "name": "IELTS official free preparation resources",
+    "org": "IELTS (British Council, IDP, Cambridge)",
+    "category": "test",
+    "description": "Official IELTS Academic sample questions and practice papers with model answers, plus free prep videos and webinars. IELTS is taken at test centres in Bangladesh.",
+    "eligibility": "Anyone.",
+    "cost": "free - practice materials are free; the test and IELTS Progress Check are paid",
+    "deadlineHint": null,
+    "url": "https://ielts.org/take-a-test/preparation-resources",
+    "tags": [
+      "english",
+      "IELTS",
+      "test-prep",
+      "free"
+    ],
+    "classLevels": [
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://ielts.org/take-a-test/preparation-resources",
+      "https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test",
+      "https://ielts.org/test-centres/uttara-sector-11-barc"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "toefl-testready",
+    "name": "TOEFL TestReady (official ETS prep)",
+    "org": "ETS",
+    "category": "test",
+    "description": "ETS's official TOEFL iBT prep portal with free sample section tests, a free scored activity of the day and a personalized prep plan; some extra practice tests are paid.",
+    "eligibility": "Anyone (free ETS account).",
+    "cost": "free - free tier available; full practice tests and the TOEFL itself are paid",
+    "deadlineHint": null,
+    "url": "https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html",
+    "tags": [
+      "english",
+      "TOEFL",
+      "test-prep",
+      "free"
+    ],
+    "classLevels": [
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      "https://www.ets.org/toefl/test-takers/ibt/prepare/toefl-testready.html",
+      "https://www.ets.org/news/press-releases/introducing-toefl-testready-new-era-test-preparation.html"
+    ],
+    "confidence": "high"
+  }
+]
