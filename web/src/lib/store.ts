@@ -72,12 +72,12 @@ export function useHydrated() {
   return useSyncExternalStore(noop, () => true, () => false);
 }
 
-export const profileStore = createStore<Profile | null>("uttoron.profile", null);
-export const listStore = createStore<ListEntry[]>("uttoron.list", []);
-export const roadmapStore = createStore<string[]>("uttoron.roadmap.done", []);
+export const profileStore = createStore<Profile | null>("quest.profile", null);
+export const listStore = createStore<ListEntry[]>("quest.list", []);
+export const roadmapStore = createStore<string[]>("quest.roadmap.done", []);
 
 export type ChatMessage = { role: "user" | "assistant"; content: string };
-export const chatStore = createStore<ChatMessage[]>("uttoron.chat", []);
+export const chatStore = createStore<ChatMessage[]>("quest.chat", []);
 
 export const useProfile = () => useStore(profileStore);
 export const useList = () => useStore(listStore);

@@ -1,7 +1,6 @@
 // Single place to rename the platform or change its navigation.
 export const site = {
-  name: "Uttoron",
-  bangla: "উত্তরণ",
+  name: "Quest",
   tagline: "Your free companion for applying to US universities from Bangladesh.",
   description:
     "Build your college list, track every step, find programs and full-aid opportunities, and get help with your profile. Free, always.",

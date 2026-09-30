@@ -1,11 +1,11 @@
-# Uttoron (উত্তরণ)
+# Quest
 
 A free companion for students in Bangladesh applying to US universities: a
 roadmap from class 7 to the visa interview, a college list with each college's
 aid policy for international students, special programs and opportunities, a
 profile, and an AI assistant that reads the profile.
 
-"Uttoron" is a placeholder name. Change it in `web/src/lib/site.ts`.
+The name and navigation live in `web/src/lib/site.ts`.
 
 ## What's in version 1
 
